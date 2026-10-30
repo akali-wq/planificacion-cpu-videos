@@ -17,3 +17,7 @@ Tres vídeos cortos que resuelven paso a paso el mismo ejercicio (Grupo 1) con c
 | [SRTF_grupo1.mp4](SRTF_grupo1.mp4) | 4,0 | 10,0 |
 
 TR = Fin - TI, TE = TR - TX.
+
+## Calculadora
+
+`python calculadora.py` abre una calculadora de consola (`python calculadora.py --test` ejecuta sus comprobaciones).
