@@ -20,4 +20,5 @@ TR = Fin - TI, TE = TR - TX.
 
 ## Calculadora
 
-`python calculadora.py` abre una calculadora de consola (`python calculadora.py --test` ejecuta sus comprobaciones).
+- `python calculadora_gui.py`: calculadora científica con interfaz gráfica (funciones, historial, teclado y una pestaña para pasar entre decimal, binario, octal y hexadecimal).
+- `python calculadora.py`: versión de consola. `python calculadora.py --test` ejecuta las comprobaciones del motor.
